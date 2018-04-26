@@ -1,0 +1,13 @@
+April 26 Thu 00:16
+- VM实例创建
+- 系统环境初始化
+- pip3 安装
+- TensorFlow 安装 (pip3, no GPU)(失败 exit code 4)
+ （支持未完全安装，查看手册安装所有前置包即可）
+- git 安装 (秘钥未生成，未关联github)
+April 27 Thu 18:45
+- VM实例CPU更新至双核
+- TensorFLow安装完毕，范例运行成功
+
+April 28 Fri 0:05
+- 收集、筛选福利/普通相片各约1,000张
